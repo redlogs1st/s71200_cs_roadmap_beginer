@@ -104,6 +104,11 @@
 ### Tổng thời gian: 16 giờ (4 tuần)
 
 ---
+## Công nghệ:
+- C# ver 12 .NET 8.0.
+- WPF MVVM.
+- TIA PORTAL V16.
+- Deploy file setup chuẩn installer
 
 ## Kết quả học viên đạt được:
 - Lập trình PLC cơ bản và cấu hình thiết bị trên TIA Portal.
