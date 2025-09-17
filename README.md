@@ -96,12 +96,12 @@
 ---
 
 ## Phân bổ thời gian:
-- **Tuần 1:** PLC cơ bản + TIA Portal (9 giờ).
-- **Tuần 2:** C# WPF cơ bản (9 giờ).
-- **Tuần 3:** Kết nối PLC và C# (9 giờ).
-- **Tuần 4:** SCADA Project (9 giờ).
+- **Tuần 1:** PLC cơ bản + TIA Portal (4 giờ).
+- **Tuần 2:** C# WPF cơ bản (4 giờ).
+- **Tuần 3:** Kết nối PLC và C# (2 giờ).
+- **Tuần 4:** SCADA Project (6 giờ).
 
-### Tổng thời gian: 36 giờ (4 tuần)
+### Tổng thời gian: 16 giờ (4 tuần)
 
 ---
 
